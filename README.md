@@ -12,9 +12,7 @@ Focused on separating concerns of development and operation needs, Open Applicat
 
 Rudr: A Kubernetes Implementation of the Open Application Model
 
-
-![Image](rudr/rudr-how-it-works.png | width=400)
-
+<img src='rudr/rudr-how-it-works.png' style='display:block;margin-left:0;width:800px;'/>
 
 # Distributed Application Runtime (Dapr) (https://github.com/dapr)
 
@@ -23,8 +21,7 @@ Rudr: A Kubernetes Implementation of the Open Application Model
 Dapr is a portable, serverless, event-driven runtime that makes it easy for developers to build resilient, stateless and stateful microservices that run on the cloud and edge and embraces the diversity of languages and developer frameworks.
 
 
-![Image](dapr/dapr-overview.png | width=400)
-
+<img src='dapr/dapr-overview.png' style='display:block;margin-left:0;width:800px;'/>
 
 
 # Azure Info Hub
@@ -35,15 +32,15 @@ Dapr is a portable, serverless, event-driven runtime that makes it easy for deve
 
 # Youtube
 
-* 20200722 Webinar: Building application management platform with Open Application Model, youtu.be/fagh1_vVmVY
+* 20200722 Webinar: Building application management platform with Open Application Model, https://youtu.be/fagh1_vVmVY
 
 * 20200602 The Future of Cloud Native Applications with Open Application Model and Dapr, [README.md](./20200602/README.md)
 
-* 20200220 Webinar: OAM: A Team-Centric App Model for Application Developers and Operators | CNCF, youtu.be/ix3ew8BWl70
+* 20200220 Webinar: OAM: A Team-Centric App Model for Application Developers and Operators | CNCF, https://youtu.be/ix3ew8BWl70
 
-* 20200207 Intro to Rudr: A Kubernetes Implementation of the Open Application Model | Azure Friday, youtu.be/3xykOuZ9960
+* 20200207 Intro to Rudr: A Kubernetes Implementation of the Open Application Model | Azure Friday, https://youtu.be/3xykOuZ9960
 
-* 20200207 Learn all about Open Application Model (OAM) | Azure Friday, youtu.be/SMQQpCXCOw0
+* 20200207 Learn all about Open Application Model (OAM) | Azure Friday, https://youtu.be/SMQQpCXCOw0
 
-* 20191114 Dapr, Rudr, OAM | Mark Russinovich presents next gen app development & deployment (Microsoft Ignite), youtu.be/LAUDVk8PaCY
+* 20191114 Dapr, Rudr, OAM | Mark Russinovich presents next gen app development & deployment (Microsoft Ignite), https://youtu.be/LAUDVk8PaCY
 
